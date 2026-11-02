@@ -1,0 +1,6 @@
+﻿finger,open,reason,pip2d,pip3d,ext3d,wrist_ratio,spread2d,center2d,ip2d,spread3d
+thumb,False,hidden,nan,nan,nan,nan,0.87,0.86,141.61,nan
+index,True,open,173.55,170.94,1.88,1.39,nan,nan,nan,nan
+middle,True,open,168.32,160.0,1.77,1.53,nan,nan,nan,nan
+ring,False,touch,149.97,125.55,0.99,1.15,nan,nan,nan,nan
+pinky,True,open,174.53,158.06,1.08,1.24,nan,nan,nan,nan

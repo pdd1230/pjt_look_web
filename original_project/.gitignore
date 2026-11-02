@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.idea/
+output/*
+!output/.gitkeep
+!output/*.csv
+!output/*_result.jpg
+
+untitled/
